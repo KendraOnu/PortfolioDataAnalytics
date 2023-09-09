@@ -1,5 +1,5 @@
 # PortfolioDataAnalytics
-Welcome to my Data Analytics Repository. In here, you will find Data Analytics projects showcasing my skills in SQL and Excel. I have completed 3 projects in total demonstrating my understanding and skill in using Basic SQL syntax, ORDER BY, GROUP BY, Aggregate functions and CREATE DATABASE (SQL). As well as VLOOKUP, Data Sorting and Filtering and Data Visualisations (Excel)
+Welcome to my Data Analytics Repository. Here, you will find Data Analytics projects showcasing my skills in SQL and Excel. I have completed 3 projects demonstrating my understanding and skill in Basic SQL syntax for data exploration such as ORDER BY, GROUP BY, Aggregate functions and CREATE DATABASE. As well as VLOOKUP, Data Sorting and Filtering and Data Visualisations (Excel).
 
 **_PROJECTS_**
 
@@ -7,7 +7,7 @@ Welcome to my Data Analytics Repository. In here, you will find Data Analytics p
 
 **Description:** A Student Database Management System automates and streamlines various tasks and processes related to student information, making it easier for educators and administrators to access and analyze data.
 
-**Tasks:** Build a sample dataset containing the following variables:
+**Task:** Build a sample dataset containing the following variables:
 
   Student_ID: A unique code for each student
   
@@ -31,6 +31,19 @@ Welcome to my Data Analytics Repository. In here, you will find Data Analytics p
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 43" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/7f08c21f-7740-4109-99b2-d5c726ba3530">
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 43" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/7f08c21f-7740-4109-99b2-d5c726ba3530">
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 50" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/b8e8a0c0-8428-48da-a571-571c441782ec">
+
+  **Project 2 (Excel): Bike Sales Data Cleaning & Visualisations**
+
+  **Dataset Source:** https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
+  
+  **Task:** Perform data cleaning and create data visualisations to observe how the relationship between customer age, income and miles commuter distance affects bike purchase. Several nuisance variables were also taken into consideration such as Gender and Education Level. 
+
+  **Skill:** Data Cleaning (Nested IF Function, Value IF Function, Find and Replace,  Data Visualisations, Pivot Table)
+
+  
+<img width="1440" alt="Screenshot 2023-09-09 at 14 33 51" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/88f5b2e5-53bb-435e-a88a-5d5cb8b661e2">
+<img width="1440" alt="Screenshot 2023-09-09 at 14 33 20" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/793ba1f6-d4e2-4c48-bc92-45e68f9f82e2">
+
 
 
 
