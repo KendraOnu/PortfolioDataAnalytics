@@ -21,7 +21,6 @@ Welcome to my Data Analytics Repository. Here, you will find Data Analytics proj
 
   GPA: Score of the student
 
-  SEE DATABASE CODING **HERE**
 
   I created the database and answered the following questions. Below is a screenshot of the question and output:
   
@@ -32,6 +31,8 @@ Welcome to my Data Analytics Repository. Here, you will find Data Analytics proj
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 43" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/7f08c21f-7740-4109-99b2-d5c726ba3530">
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 50" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/b8e8a0c0-8428-48da-a571-571c441782ec">
 
+ 
+  
   **Project 2 (Excel): Bike Sales Data Cleaning & Visualisations**
 
   **Dataset Source:** https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
@@ -43,6 +44,18 @@ Welcome to my Data Analytics Repository. Here, you will find Data Analytics proj
   
 <img width="1440" alt="Screenshot 2023-09-09 at 14 33 51" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/88f5b2e5-53bb-435e-a88a-5d5cb8b661e2">
 <img width="1440" alt="Screenshot 2023-09-09 at 14 33 20" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/793ba1f6-d4e2-4c48-bc92-45e68f9f82e2">
+
+
+
+**Project 3(Excel): Accenture Data Analysis and Modelling**
+
+**Dataset Source:** https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-virtual-experience/data-cleaning-modeling 
+
+**Description:** This project was completed as part of my Forage Virtual Internship Programme with Accenture. In this job simulation programme, I was required to perform data cleaning and perform data analysis to find out the Top 5 performing social media content categories for a social media company named 'Social Buzz'. Popularity is quantified by the 'Score' given to each reaction type. I performed data modelling by merging columns using the VLOOKUP function. 
+
+<img width="1440" alt="Screenshot 2023-09-09 at 14 54 37" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/2e8c1d0a-aeae-4b49-9db1-620732471ea0">
+<img width="1440" alt="Screenshot 2023-09-09 at 14 54 31" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/2ec5eefe-933b-4691-96f6-73c2befee5d8">
+
 
 
 
