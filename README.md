@@ -22,7 +22,7 @@ Welcome to my Data Analytics Repository. Here, you will find Data Analytics proj
   GPA: Score of the student
 
 
-  I created the database and answered the following questions. Below is a screenshot of the question and output:
+  I created the database and answered the following questions. Below are screenshots of the questions and outputs:
   
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 20" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/0ca1ccfb-d55e-4481-8784-f087461423cc">
   <img width="1440" alt="Screenshot 2023-09-08 at 17 21 27" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/89e68090-1c99-47a6-8009-ce3e81ab59a2">
@@ -37,7 +37,7 @@ Welcome to my Data Analytics Repository. Here, you will find Data Analytics proj
 
   **Dataset Source:** https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
   
-  **Task:** Perform data cleaning and create data visualisations to observe how the relationship between customer age, income and miles commuter distance affects bike purchase. Several nuisance variables were also taken into consideration such as Gender and Education Level. 
+  **Task:** Perform data cleaning and create data visualisations to observe how the relationship between customer's age, income and commuter distance affects bike purchases. Several nuisance variables were also taken into consideration such as Gender and Education Level. 
 
   **Skill:** Data Cleaning (Nested IF Function, Value IF Function, Find and Replace,  Data Visualisations, Pivot Table)
 
@@ -51,7 +51,9 @@ Welcome to my Data Analytics Repository. Here, you will find Data Analytics proj
 
 **Dataset Source:** https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-virtual-experience/data-cleaning-modeling 
 
-**Description:** This project was completed as part of my Forage Virtual Internship Programme with Accenture. In this job simulation programme, I was required to perform data cleaning and perform data analysis to find out the Top 5 performing social media content categories for a social media company named 'Social Buzz'. Popularity is quantified by the 'Score' given to each reaction type. I performed data modelling by merging columns using the VLOOKUP function. 
+**Description:** This project was completed as part of my Forage Virtual Internship Programme with Accenture. In this job simulation programme, I was required to perform data cleaning, modelling and data analysis to find out the Top 5 performing social media content categories for a social media company named 'Social Buzz'. Popularity is quantified by the 'Score' given to each reaction type. I performed data modelling by merging columns using the VLOOKUP function. 
+
+Relevant tabs are highlighted in 'Yellow'
 
 <img width="1440" alt="Screenshot 2023-09-09 at 14 54 37" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/2e8c1d0a-aeae-4b49-9db1-620732471ea0">
 <img width="1440" alt="Screenshot 2023-09-09 at 14 54 31" src="https://github.com/KendraOnu/PortfolioDataAnalytics/assets/141183030/2ec5eefe-933b-4691-96f6-73c2befee5d8">
